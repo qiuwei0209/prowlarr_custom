@@ -6,3 +6,4 @@ This is my custom torrent sites. All sites were tested. Search and freeleech fun
 * move to your prowlarr configure path, such as: prowlarr/config/Definitions
 * cp Custom to this path
 
+
